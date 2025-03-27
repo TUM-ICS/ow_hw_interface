@@ -1,0 +1,1 @@
+This package implements the hardware interface to the real robot
